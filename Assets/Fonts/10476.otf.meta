@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 476ffa379a876ce429d5499feacc7f34
+timeCreated: 1492091150
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CTC Splash Rounded
+  fontNames:
+  - CTC Splash Rounded
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
