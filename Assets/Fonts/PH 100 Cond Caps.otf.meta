@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 53cb61e7e3a310444a20a6009297f7c5
+timeCreated: 1492091597
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PH
+  fontNames:
+  - PH
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

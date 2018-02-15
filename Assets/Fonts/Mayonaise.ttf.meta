@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 300a5cac4b2484f4fb0f7c9716c5a6e8
+timeCreated: 1486045225
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mayonaise
+  fontNames:
+  - Mayonaise
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
