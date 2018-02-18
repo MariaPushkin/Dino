@@ -1,0 +1,1 @@
+![Рабочая область](https://github.com/MariaPushkin/Dino/master/screenshots/workspace.png)
