@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 83ea900eb81f94546b9aa64e149ffde4
+timeCreated: 1492091500
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Phantom cyr-lat
+  fontNames:
+  - Phantom cyr-lat
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
