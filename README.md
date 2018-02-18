@@ -1,3 +1,10 @@
-![Рабочая область](https://github.com/MariaPushkin/Dino/tree/master/screenshots/workspace.PNG)
+Приложение написано с использованием библиотеки дополненной реальности Vuforia.
 
-![Интерфейс](https://github.com/MariaPushkin/Dino/tree/master/screenshots/interface.PNG)
+
+<h2>Главное рабочее окно</h2>
+
+<img src="screenshots/workspace.png" alt="Рабочая область"/>
+
+<h2>Прочие окна</h2>
+
+<img src="screenshots/interface.png" alt="Остальные окна"/>
